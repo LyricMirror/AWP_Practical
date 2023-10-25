@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<studentdetail>
+  <student>
+    <sid>001</sid>
+    <sname>Amit</sname>
+    <sclass>FYIT</sclass>
+  </student>
+  <student>
+    <sid>002</sid>
+    <sname>Krishana</sname>
+    <sclass>SYIT</sclass>
+  </student>
+  <student>
+    <sid>003</sid>
+    <sname>Mohit</sname>
+    <sclass>TYCOM</sclass>
+  </student>
+  <student>
+    <sid>004</sid>
+    <sname>Niraj</sname>
+    <sclass>FYJC</sclass>
+  </student>
+</studentdetail>

@@ -1,0 +1,5 @@
+c:\users\lenovo\onedrive\documents\visual studio 2012\Projects\Practical_3B\Practical_3B\bin\Practical_3B.dll
+c:\users\lenovo\onedrive\documents\visual studio 2012\Projects\Practical_3B\Practical_3B\bin\Practical_3B.pdb
+c:\users\lenovo\onedrive\documents\visual studio 2012\Projects\Practical_3B\Practical_3B\obj\Debug\Practical_3B.csprojResolveAssemblyReference.cache
+c:\users\lenovo\onedrive\documents\visual studio 2012\Projects\Practical_3B\Practical_3B\obj\Debug\Practical_3B.dll
+c:\users\lenovo\onedrive\documents\visual studio 2012\Projects\Practical_3B\Practical_3B\obj\Debug\Practical_3B.pdb
