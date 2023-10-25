@@ -1,0 +1,4 @@
+c:\users\lenovo\onedrive\documents\visual studio 2012\Projects\Practical_6A\Practical_6A\bin\Practical_6A.dll
+c:\users\lenovo\onedrive\documents\visual studio 2012\Projects\Practical_6A\Practical_6A\bin\Practical_6A.pdb
+c:\users\lenovo\onedrive\documents\visual studio 2012\Projects\Practical_6A\Practical_6A\obj\Debug\Practical_6A.dll
+c:\users\lenovo\onedrive\documents\visual studio 2012\Projects\Practical_6A\Practical_6A\obj\Debug\Practical_6A.pdb

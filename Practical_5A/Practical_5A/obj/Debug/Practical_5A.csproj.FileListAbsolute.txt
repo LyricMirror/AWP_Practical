@@ -1,0 +1,5 @@
+c:\users\lenovo\onedrive\documents\visual studio 2012\Projects\Practical_5A\Practical_5A\bin\Practical_5A.dll
+c:\users\lenovo\onedrive\documents\visual studio 2012\Projects\Practical_5A\Practical_5A\bin\Practical_5A.pdb
+c:\users\lenovo\onedrive\documents\visual studio 2012\Projects\Practical_5A\Practical_5A\obj\Debug\Practical_5A.csprojResolveAssemblyReference.cache
+c:\users\lenovo\onedrive\documents\visual studio 2012\Projects\Practical_5A\Practical_5A\obj\Debug\Practical_5A.dll
+c:\users\lenovo\onedrive\documents\visual studio 2012\Projects\Practical_5A\Practical_5A\obj\Debug\Practical_5A.pdb
